@@ -53,3 +53,21 @@ section div{
 .heading{
     font-size: 50px;
 }
+.hedding-color{
+     color:white;
+}
+.add{
+    border:50px solid rgb(240, 13, 13);
+    border-radius:10px ;
+    font-size: 30px;
+    margin: 10px;
+    text-align:justify;
+    padding:15px;
+}
+.hedding-font-size{
+    font-size: 60px;
+    color:white;
+    text-align: center;
+    background-color:rgb(255, 0, 85);
+    padding: 25px;
+}
