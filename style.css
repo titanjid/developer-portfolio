@@ -2,3 +2,54 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
+.name-color{
+    color:chartreuse
+}
+section{
+    display: flex;
+}
+section div{
+    width: 50%;
+}
+.half-width{
+    position: relative;
+    width:50%;
+    padding-left: 5%;
+}
+.resume-img{
+    width: 450px;
+
+  
+
+}
+.half-width img{
+    width:100%
+}
+.p-4{
+    padding-left: 40px;
+}
+.link-button{
+    text-decoration: none;
+    /* background-image: -moz-linear-gradient(orange,tomato); */
+    background-color: tomato;
+    padding:10px 40px;
+    border:5%;
+    color: white;
+
+
+}
+
+.banner{
+    background-image: url('photo/b6.jpg');
+
+    /* background-repeat: no-repeat; */
+    background-size: 100%;
+    background-position:inherit;
+}
+
+.text-light{
+    color: white;
+}
+.heading{
+    font-size: 50px;
+}
